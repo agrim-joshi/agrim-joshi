@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AJ</h1>
+<h1 align="center">Hi , I'm AJ </h1>
 
 <p align="center">
   Learn → Build → Ship → Repeat
