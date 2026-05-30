@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=agrim-joshi&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=agrim-joshi&theme=tokyonight&cache=20250530" />
 </p>
